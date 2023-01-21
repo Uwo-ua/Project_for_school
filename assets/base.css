@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap');
+
+*:root {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body,
+div {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    color: #0c120c;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+div,
+header,
+p {
+    background-color: inherit;
+    border-color: inherit;
+    color: inherit;
+    fill: inherit;
+}
+
+a {
+    color: #0c120c;
+}
+
+button {
+    overflow: visible;
+    border: none;
+    background: transparent;
+    margin: 0;
+    padding: 0;
+}
